@@ -16,17 +16,17 @@ Contributing is simple. Please follow the steps below. Do note that all contribu
 
 ### Reporting Bugs
 
-Please submit all bug reports as an issue to github.com/jakebellacera/ics/issues. Before you submit your request, please perform a search to see if your bug was already reported by another user. Duplicate bug reports will be closed.
+Please submit all bug reports as an issue to the [repository on GitHub](https://github.com/jakebellacera/ics/issues). Before you submit your request, please perform a search to see if your bug was already reported by another user. Duplicate bug reports will be closed.
 
 To ensure that your bug report is fixed, you should be as descriptive as possible when submitting your bug report. Please describe the issue and the steps required to reproduce it. You may use the pre-filled issue template when submitting your issue. Do note that if your bug report is not descriptive enough, someone may reach out for more information. Please be friendly and helpful whenever possible. If your bug report is not descriptive enough, your issue may be closed.
 
 ### Suggesting Enhancements
 
-Please submit all enhancements and feature requests as an issue to github.com/jakebellacera/ics/issues. Before you submit your request, please perform a search to see if your enhancement was already suggested by another user. Duplicate feature suggestions will be closed.
+Please submit all enhancements and feature requests as an issue to the [repository on GitHub](https://github.com/jakebellacera/ics/issues). Before you submit your request, please perform a search to see if your feature request was already suggested by another user. Duplicate feature request will be closed.
 
 ### Code Contributions
 
-Please submit all contributions in the form of a [pull request](https://help.github.com/articles/about-pull-requests/). We do have guidelines which apply to all pull requests:
+Please submit all contributions in the form of a [pull request](https://help.github.com/articles/about-pull-requests/) to the [repository on GitHub](https://github.com/jakebellacera/ics/issues). We do have guidelines which apply to all pull requests:
 
 * Do not include issue numbers in the pull request title. Reference issue numbers in the body instead.
 * One feature or fix per pull request. If you want to fix multiple issues, create multiple pull requests.
